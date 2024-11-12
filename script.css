@@ -1,0 +1,50 @@
+body {
+    font-family: Calibri, 'Trebuchet MS', sans-serif, sans-serif;
+    background-color: #f9caca;
+    align-items: center;
+    height: 100px;
+    margin: 50;
+    border-radius: 15px;
+}
+
+.form-container {
+    background-color: #f7dea9;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    width: 300px;
+    text-align: center;
+}
+
+h2 {
+    margin-bottom: 20px;
+}
+
+label {
+    display: block;
+    margin: 10px 0 5px;
+    text-align: left;
+}
+
+input {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 15px;
+    border: 1px solid #ccc;
+    border-radius: 20px;
+}
+
+button {
+    width: 100%;
+    padding: 10px;
+    background-color: #000001;
+    color: white;
+    border: none;
+    border-radius: 20px;
+    cursor: pointer;
+    font-size: 16px;
+}
+
+button:hover {
+    background-color: #0056b3;
+}
